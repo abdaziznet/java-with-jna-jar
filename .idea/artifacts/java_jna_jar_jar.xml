@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-jna-jar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_jna_jar_jar</output-path>
+    <root id="archive" name="FINGER_BTN_WEB.jar">
+      <element id="module-output" name="java-jna-jar" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jna-platform-5.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jna-5.12.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
